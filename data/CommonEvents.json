@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":356,"indent":0,"parameters":["RetractMiniMap"]},{"code":0,"indent":0,"parameters":[]}],"name":"关闭小地图","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":122,"indent":0,"parameters":[1,1,0,3,0,2,0]},{"code":0,"indent":0,"parameters":[]}],"name":"魔物蝙蝠残肢数量","switchId":22,"trigger":2},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
