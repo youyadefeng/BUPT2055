@@ -28,8 +28,8 @@ null,
 {"id":26,"expanded":true,"name":"右侧异世界宿舍","order":20,"parentId":30,"scrollX":600.6,"scrollY":1076.3999999999999},
 {"id":27,"expanded":false,"name":"左侧异世界军机处","order":19,"parentId":30,"scrollX":996.5999999999999,"scrollY":1296},
 {"id":28,"expanded":false,"name":"图书馆测试房间","order":32,"parentId":9,"scrollX":819,"scrollY":452},
-{"id":29,"expanded":true,"name":"异世界地图","order":1,"parentId":0,"scrollX":549,"scrollY":536.4},
-{"id":30,"expanded":true,"name":"第一章地图","order":2,"parentId":29,"scrollX":549,"scrollY":536.4},
+{"id":29,"expanded":false,"name":"异世界地图","order":1,"parentId":0,"scrollX":549,"scrollY":536.4},
+{"id":30,"expanded":false,"name":"第一章地图","order":2,"parentId":29,"scrollX":982.8,"scrollY":542.4},
 {"id":31,"expanded":true,"name":"考试教室","order":40,"parentId":4,"scrollX":1404,"scrollY":774.8571428571428},
 {"id":32,"expanded":false,"name":"王都郊外","order":4,"parentId":30,"scrollX":549,"scrollY":536.4},
 {"id":33,"expanded":false,"name":"王都东郊2","order":5,"parentId":30,"scrollX":982.8,"scrollY":542.4},
@@ -43,5 +43,6 @@ null,
 {"id":41,"expanded":false,"name":"迷失森岭出口2","order":13,"parentId":30,"scrollX":982.8,"scrollY":542.4},
 {"id":42,"expanded":false,"name":"王都边境","order":14,"parentId":30,"scrollX":539.4,"scrollY":663.6},
 {"id":43,"expanded":false,"name":"武器商店","order":15,"parentId":30,"scrollX":982.8,"scrollY":542.4},
-{"id":44,"expanded":false,"name":"校园地图","order":22,"parentId":0,"scrollX":819,"scrollY":452}
+{"id":44,"expanded":false,"name":"校园地图","order":22,"parentId":0,"scrollX":982.8,"scrollY":542.4},
+{"id":45,"expanded":false,"name":"插件效果测试","order":45,"parentId":0,"scrollX":819,"scrollY":452}
 ]
