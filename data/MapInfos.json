@@ -44,5 +44,5 @@ null,
 {"id":42,"expanded":false,"name":"王都边境","order":14,"parentId":30,"scrollX":539.4,"scrollY":663.6},
 {"id":43,"expanded":false,"name":"武器商店","order":15,"parentId":30,"scrollX":982.8,"scrollY":542.4},
 {"id":44,"expanded":false,"name":"校园地图","order":22,"parentId":0,"scrollX":982.8,"scrollY":542.4},
-{"id":45,"expanded":false,"name":"插件效果测试","order":45,"parentId":0,"scrollX":819,"scrollY":452}
+{"id":45,"expanded":false,"name":"插件效果测试","order":45,"parentId":0,"scrollX":832,"scrollY":640}
 ]
