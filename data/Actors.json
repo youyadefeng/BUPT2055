@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"主角","nickname":"","note":"<NPC:322>","profile":""},
-{"id":2,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"高闲","nickname":"","note":"<MiniIcon:325>","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":5,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"主角","nickname":"","note":"<NPC:322>","profile":""},
+{"id":2,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":2,"equips":[18,0,1,0,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":2,"maxLevel":99,"name":"高闲","nickname":"","note":"<MiniIcon:325>","profile":""},
 {"id":3,"battlerName":"张强","characterIndex":0,"characterName":"张强","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"张强","traits":[],"initialLevel":1,"maxLevel":99,"name":"张强","nickname":"","note":"<MiniIcon:323>","profile":""},
 {"id":4,"battlerName":"赵勤","characterIndex":0,"characterName":"赵勤","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"赵勤","traits":[],"initialLevel":1,"maxLevel":99,"name":"赵勤","nickname":"","note":"<MiniIcon:324>","profile":""},
 {"id":5,"battlerName":"学长","characterIndex":0,"characterName":"学长","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"学长","traits":[],"initialLevel":1,"maxLevel":99,"name":"学长","nickname":"","note":"","profile":""},
