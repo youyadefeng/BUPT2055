@@ -3036,6 +3036,38 @@ Input.keyMapper = {
 Input.gamepadMapper = {
     0: 'ok',        // A
     1: 'cancel',    // B
+    9: 'menu',       //start
+    6:'shift',//LT
+    12: 'up',       // D-pad up
+    13: 'down',     // D-pad down
+    14: 'left',     // D-pad left
+    15: 'right',    // D-pad right
+    // 2: 'shift',     // X
+    // 3: 'menu',      // Y
+    // 4: 'pageup',    // LB
+    // 5: 'pagedown',  // RB
+
+};
+/*
+number对应手柄键位
+0：A
+1：B
+2：X
+3：Y
+4：LB
+5：RB
+6：LT
+7：RT
+8：back
+9：start
+10：左边遥杆确认键
+11：右边遥杆确认键位
+12~15分别对应上、下、左、右
+
+下面是默认的键位设定：
+Input.gamepadMapper = {
+    0: 'ok',        // A
+    1: 'cancel',    // B
     2: 'shift',     // X
     3: 'menu',      // Y
     4: 'pageup',    // LB
@@ -3045,6 +3077,11 @@ Input.gamepadMapper = {
     14: 'left',     // D-pad left
     15: 'right',    // D-pad right
 };
+
+
+ */
+
+
 
 /**
  * Clears all the input data.
