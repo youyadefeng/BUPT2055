@@ -45,6 +45,11 @@
  * @desc 小地图快捷键键值。（例： M键 => 77）
  * @default 77
  *
+ * @param pad
+ * @desc 手柄键位
+ * @default 3
+ *
+ *
  * @param width
  * @desc 小地图窗口显示的宽。
  * @default Graphics.width / 3
@@ -132,6 +137,7 @@ XdRsData.miniMap = {};
 XdRsData.miniMap.parameters = PluginManager.parameters('XdRs_MiniMap');
 //==================================================================================================================
 Input.keyMapper[+XdRsData.miniMap.parameters['key']] = 'miniMap';
+Input.gamepadMapper[+XdRsData.miniMap.parameters['pad']] = 'miniMap';
 //==================================================================================================================
 Tilemap.prototype.affixMiniMapSign = function() {
     this._miniMapSign = true;

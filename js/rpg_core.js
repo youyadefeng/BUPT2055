@@ -3023,7 +3023,8 @@ Input.keyMapper = {
     100: 'left',    // numpad 4
     102: 'right',   // numpad 6
     104: 'up',      // numpad 8
-    120: 'debug'    // F9
+    120: 'debug',    // F9
+
 };
 
 /**
@@ -3042,8 +3043,8 @@ Input.gamepadMapper = {
     13: 'down',     // D-pad down
     14: 'left',     // D-pad left
     15: 'right',    // D-pad right
+    //3:  'menu'//手柄小地图 Y键位
     // 2: 'shift',     // X
-    // 3: 'menu',      // Y
     // 4: 'pageup',    // LB
     // 5: 'pagedown',  // RB
 
