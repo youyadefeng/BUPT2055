@@ -52,5 +52,5 @@ var $plugins =
 {"name":"YEP_EventMiniLabel","status":true,"description":"v1.11 事件迷你标签","parameters":{"Default Show":"true","Minimum Width":"136","Font Size":"20","X Buffer":"0","Y Buffer":"36","Battle Transition":"false"}},
 {"name":"MOG_AnimatedText","status":true,"description":"(v1.3) 画面 - 动态漂浮文字","parameters":{"偏移-漂浮文字 X":"0","偏移-漂浮文字 Y":"0"}},
 {"name":"KMS_MapActiveMessage","status":true,"description":"[v0.2.0] Show messages automatically for events on map.","parameters":{"Balloon offset Y":"20","Balloon margin":"-8","Default range":"4","Display duration":"300","Max message count":"10","Message skin":"ActiveMessageSkin"}},
-{"name":"XdRs_NPC_Idioglossia","status":true,"description":"自定义说话 + NPC自动随机说话。","parameters":{"side":"5","shadow":"30,30,30,1","addY":"5","count":"200","wCount":"2","image":"Talk_Image","max":"16"}}
+{"name":"XdRs_NPC_Idioglossia","status":true,"description":"自定义说话 + NPC自动随机说话。","parameters":{"side":"5","shadow":"30,30,30,1","addY":"5","count":"200","wCount":"2","image":"talk_image","max":"16"}}
 ];
