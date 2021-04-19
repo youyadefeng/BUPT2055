@@ -3,5 +3,12 @@ null,
 {"id":1,"list":[{"code":356,"indent":0,"parameters":["RetractMiniMap"]},{"code":0,"indent":0,"parameters":[]}],"name":"关闭小地图","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":122,"indent":0,"parameters":[1,1,0,3,0,2,0]},{"code":0,"indent":0,"parameters":[]}],"name":"魔物蝙蝠残肢数量","switchId":22,"trigger":2},
 {"id":3,"list":[{"code":356,"indent":0,"parameters":["clear_all_weathers"]},{"code":0,"indent":0,"parameters":[]}],"name":"关闭天气效果","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":4,"list":[{"code":235,"indent":0,"parameters":[1]},{"code":235,"indent":0,"parameters":[2]},{"code":235,"indent":0,"parameters":[3]},{"code":235,"indent":0,"parameters":[4]},{"code":235,"indent":0,"parameters":[5]},{"code":235,"indent":0,"parameters":[6]},{"code":235,"indent":0,"parameters":[10]},{"code":356,"indent":0,"parameters":["EnableTouchMove"]},{"code":0,"indent":0,"parameters":[]}],"name":"關閉觸摸移動,開啟滑鼠","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":231,"indent":0,"parameters":[1,"Arrow4",0,0,70,550,50,50,120,0]},{"code":231,"indent":0,"parameters":[2,"Arrow2",0,0,130,610,50,50,120,0]},{"code":231,"indent":0,"parameters":[3,"Arrow6",0,0,190,550,50,50,120,0]},{"code":231,"indent":0,"parameters":[4,"Arrow8",0,0,130,490,50,50,120,0]},{"code":231,"indent":0,"parameters":[5,"Button-Cancel",0,0,1100,500,50,50,120,0]},{"code":231,"indent":0,"parameters":[6,"Button-Action",0,0,1030,560,50,50,120,0]},{"code":231,"indent":0,"parameters":[10,"Button-Touch-Control",0,0,1030,640,50,50,120,0]},{"code":356,"indent":0,"parameters":["DisableTouchMove"]},{"code":0,"indent":0,"parameters":[]}],"name":"開啟觸摸移動,關閉滑鼠","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":356,"indent":0,"parameters":["TriggerButton Ok "]},{"code":0,"indent":0,"parameters":[]}],"name":"確定","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":356,"indent":0,"parameters":["TriggerButton Cancel"]},{"code":0,"indent":0,"parameters":[]}],"name":"取消","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":356,"indent":0,"parameters":["MovePlayer Up"]},{"code":0,"indent":0,"parameters":[]}],"name":"上","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":356,"indent":0,"parameters":["MovePlayer Left"]},{"code":0,"indent":0,"parameters":[]}],"name":"左","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":356,"indent":0,"parameters":["MovePlayer Down"]},{"code":0,"indent":0,"parameters":[]}],"name":"下","switchId":1,"trigger":0},
+{"id":11,"list":[{"code":356,"indent":0,"parameters":["MovePlayer Right"]},{"code":0,"indent":0,"parameters":[]}],"name":"右","switchId":1,"trigger":0}
 ]
